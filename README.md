@@ -80,3 +80,6 @@ Some subdomains may not appear in DNS results because they're:
 ### ✅ Conclusion
 Subdomain enumeration is a powerful technique for mapping a target’s infrastructure. By combining OSINT, DNS brute-forcing, and virtual host fuzzing, you can uncover hidden assets that might otherwise be missed — a crucial step in any ethical hacking workflow.
 
+<p align=center>
+<img src="https://i.imgur.com/i5CKiNy.png" width="80%" height="80%" alt="Subdomain Enumaration">
+</p>
